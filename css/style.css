@@ -1,0 +1,35 @@
+.div_balance{
+    width: 400px;
+    margin: 0 auto;
+    background-color: #140054;
+    color: #fff;
+    font-family: arial;
+    padding: 50px;
+}
+
+.div_balance p{
+    display: grid;
+}
+.div_balance p a{
+    text-decoration: none;
+    background-color: #01d2e5;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.div_balance input{
+    width: 97%;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid #01d2e5;
+    font-size: 20px;
+    padding-left: 10px;
+}
+
+.card-page{
+    width: 500px;
+    margin: 0 auto;
+}
